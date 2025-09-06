@@ -1,0 +1,14 @@
+{
+    "name": "shazz/php-sample-agentfire",
+    "description": "Demo PHP code sample for AgentFire interview",
+    "type": "project",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "./"
+        }
+    }
+}
